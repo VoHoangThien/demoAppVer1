@@ -21,7 +21,7 @@ namespace demoAppVer1
             if (textBox1.Text != "")
             {
                 int a = int.Parse(textBox1.Text);
-                int b = int.Parse(textBox1.Text);
+                int b = int.Parse(button2.Text);
             }
         }
     }
